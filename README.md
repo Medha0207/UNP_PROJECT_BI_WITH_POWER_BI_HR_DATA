@@ -23,4 +23,5 @@ Power BI Project: HR Data Analysis
 This project demonstrates the power of data visualization in addressing HR challenges. It supports data-driven decision-making to enhance organizational efficiency.
 
 PBIX FILE: https://drive.google.com/file/d/19X9Tu3ZGC88UFCXaSPhxqmX4yyAkDVU6/view?usp=sharing
+
 PDF FILE: https://drive.google.com/file/d/1i1wOfYsivphAhoYkxlrNP5cBOj4yNoHP/view?usp=sharing
